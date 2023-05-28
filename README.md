@@ -12,3 +12,4 @@ This was developed using an environment in Anaconda, there is a YAML file which 
 If you don't want to, then I can suggest having the following as a minimum for running the notebooks:
 - Pandas
 - Jupyter notebook
+- Bokeh
