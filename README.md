@@ -5,11 +5,18 @@ Hello and welcome to this data analysis repo! This repo looks at analysing and v
 The data for this came from the following source:
 https://gs.statcounter.com/social-media-stats/
 
+The following countries are looked at:
+- UK
+- USA
+- Japan
+- South Korea
+
 # Getting started
 
 This was developed using an environment in Anaconda, there is a YAML file which contains a backup of the environment used. Feel free to create an environment using the YAML.
 
 If you don't want to, then I can suggest having the following as a minimum for running the notebooks:
 - Pandas
-- Jupyter notebook
+- Jupyter notebook or Jupyter Lab
 - Bokeh
+- Mito
